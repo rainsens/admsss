@@ -1,2 +1,2 @@
-# admsss
-A Laravel Administration
+# template
+template
